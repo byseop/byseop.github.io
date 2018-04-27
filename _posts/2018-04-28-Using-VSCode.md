@@ -4,10 +4,8 @@ title: VSCode 사용후기
 feature-img: "assets/img/VSCode.png"
 ---
 Visual Studio Code 줄여서 VSCode에 대해서 알아보고, 사용해보았다.  
-과연 VSCode는 쓸만 한가? 에 대한 매우 개인적인 생각.
-<br>
-<br>
-<br>
+과연 VSCode는 쓸만 한가? 에 대한 매우 개인적인 생각.  
+
 # VSCode 는 무엇인가?
 ### Visual Studio Code  
 **GitHub**에서 만든 에디터 **Atom**에 사용된 Electron 프레임워크를 기반으로 만든 텍스트 에디터이다. **Git** 연동을 직접 지원한다. 터미널을 자체 내장하고 있어서 별도의 터미널 창을 열 필요가 없고, 작업 디렉토리에 git init만 되어 있으면 별도의 설정 없이 자동으로 연동되어 commit 관리나 알록달록한 diff 등을 편리하게 이용이 가능하다.  
