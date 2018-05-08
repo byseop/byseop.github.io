@@ -2,6 +2,7 @@
 layout: post
 title: VSCode 사용후기
 feature-img: "assets/img/VSCode.png"
+tags: [VSCode]
 ---
 Visual Studio Code 줄여서 VSCode에 대해서 알아보고, 사용해보았다.  
 과연 VSCode는 쓸만 한가? 에 대한 매우 개인적인 생각.  
