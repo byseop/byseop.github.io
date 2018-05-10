@@ -49,3 +49,8 @@
     padding: $padding-small;
   }
 }
+
+
+@media screen and (max-width: 768px){
+  .call-out {font-size: 1em;}
+}
