@@ -139,7 +139,6 @@ while (!gameover){
 게임을 자유롭게 패치도 해볼 수 있을것 같다.  
 <br>
 <br>
-![result]({{ site.baseurl }}/assets/img/rpg_result.png)  
-참고자료 : [https://www.zerocho.com/category/JavaScript/post/573d876380f0b9102dc370b8](https://www.zerocho.com/category/JavaScript/post/573d876380f0b9102dc370b8)
+![result]({{ site.baseurl }}/assets/img/rpg_result.png)
 <br>
 <br>
