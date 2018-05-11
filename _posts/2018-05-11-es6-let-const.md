@@ -234,7 +234,7 @@ console.log(FOO); // ReferenceError: FOO is not defined.
   
 상수는 가독성과 유지보수의 편의를 위해 적극적으로 사용해야 한다. 예를 들면  
 ~~~javascript
-// 10의 이미를 알기 어렵기 때문에 가독성이 좋지 않다.
+// 10의 의미를 알기 어렵기 때문에 가독성이 좋지 않다.
 if (rows > 10){
 }
 
