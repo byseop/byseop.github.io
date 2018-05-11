@@ -71,7 +71,7 @@ Hero.prototype.attacked = function(damage) { // 기존 attacked 메소드 확장
     if(this.hp <= 0) {
         logMessage('죽었습니다. 레벨 ' + this.lev + '에서 모험이 끝납니다. F5를 눌러 다시시작하세요.', 'red');
         battle = false;
-        gameover = ture;
+        gameover = true;
     }
 };
 Hero.prototype.attack = function (target) { // 기존 attack 메소드 확장
