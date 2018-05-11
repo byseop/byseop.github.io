@@ -68,8 +68,8 @@ tags: [markdown, 마크다운, style]
 > This is a blockqute.
 ```
 > This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
+>> This is a second blockqute.
+>>> This is a third blockqute.
 
 이 안에서는 다른 마크다운 요소를 포함할 수 있다.
 > ### This is a H3
