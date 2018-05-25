@@ -2,6 +2,13 @@
 ---
 
 @import "type-theme";
+@font-face {
+    font-family: "LexiSaebom";
+    src: url("../fonts/LexiSaebomR.eot");
+    /*IE 9 호환성 보기 모드 대응*/
+    src: local("☺"), url("../fonts/LexiSaebomR.eot?#iefix") format("embedded-opentype"), url("../fonts/LexiSaebomR.woff") format("woff");
+    /*표준 브라우저*/
+ }
 
 .tag_name {color: #9c9c9c;}
 
