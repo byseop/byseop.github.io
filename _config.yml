@@ -63,10 +63,10 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Nanum+Myeongjo:400,700,800"
+  google_fonts: "Source+Sans+Pro:200"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5
