@@ -47,7 +47,7 @@ theme_settings:
   google_analytics: "UA-119178615-1"
   disqus_shortname: "byseop"
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  search: true # Enable the search feature
 
   # Localization strings
   str_follow_on: "Follow on"
