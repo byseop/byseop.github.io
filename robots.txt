@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://byseop.github.io/sitemap.xml
