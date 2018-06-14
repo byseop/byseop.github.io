@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMCAScript6 - 2. 템플릿 리터럴
+title: ES6 - 2. 템플릿 리터럴
 tags: [ES6, JavaScript, study]
 ---
 ES6는 템플릿 리터럴(Template literal)이라고 불리는 새로운 문자열 표기법을 도입하였다.  

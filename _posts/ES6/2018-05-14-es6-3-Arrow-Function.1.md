@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMCAScript6 - 3. 화살표 함수
+title: ES6 - 3. 화살표 함수
 tags: [ES6, JavaScript, study]
 ---
 ES6에서는 화살표 함수가 추가되었다.  

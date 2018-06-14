@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMCAScript6 - 4. 파라미터 기본값, Rest 파라미터, Spread 연산자
+title: ES6 - 4. 파라미터 기본값, Rest 파라미터, Spread 연산자
 tags: [ES6, JavaScript, study]
 ---
 ES5에서는 파라미터에 기본값을 설정할 수 없다. 따라서 적절한 인수가 전달되었는지 함수 내부에서 확인할 필요가 있다.  

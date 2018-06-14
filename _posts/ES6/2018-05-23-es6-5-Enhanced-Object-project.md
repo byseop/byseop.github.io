@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EMCAScript6 - 5. 객체 리터럴 프로퍼티 기능 확장
+title: ES6 - 5. 객체 리터럴 프로퍼티 기능 확장
 tags: [ES6, JavaScript, study]
 ---
 ES6에서는 객체 리터럴 프로퍼티 기능을 확장하여 더욱 간편하고 동적인 객체 생성 기능을 제공한다.  
