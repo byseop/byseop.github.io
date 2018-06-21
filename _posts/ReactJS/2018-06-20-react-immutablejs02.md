@@ -5,8 +5,13 @@ tags: [React, ReactJS, Immutable]
 feature-img: "assets/img/react/react_bg.png"
 ---
 
-지난 포스트에서 리액트에서 불변성을 지키는 이유와 Immutable을 간단하게 설명했다.    
+지난 포스트에서 리액트에서 불변성을 지키는 이유와 Immutable을 간단하게 설명했다.  
 이 포스트에서는 Immutable을 사용법을 알아보자.  
+  
+<br>
+이 포스트는 이어지는 튜토리얼입니다! [1편](https://byseop.github.io/2018/06/20/react-immutablejs01.html) 을 먼저 확인해주세요!
+<br>
+<br>
 
 ## Immutable.js 시작하기  
   
@@ -251,5 +256,3 @@ export default User;
 
 User 컴포넌트에서는 username을 보여주기 위해 <code>const username = this.props.user.get('username')</code> 을 해도 좋다. 하지만 위의 방식으로 toJS()를 한 결과를 비구조화 할당하는 방법도 있다  
 여기까지 하면 Immutable을 사용하여 상태관리 하는것이 완성된다.  
-  
-다음 포스트에서는 Record에 대해서 알아보자!
